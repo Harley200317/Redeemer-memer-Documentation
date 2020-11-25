@@ -4,13 +4,13 @@ The repo for Redeemer Meemer is here [Github](https://github.com/sgtharley5050/R
 
 You can vote for Redeemer Meemer on the following Bot Websites:
 
-BotHouse: [Vote](https://bothouse.xyz/bots/780117264455958558)
+BotHouse: | [Vote](https://bothouse.xyz/bots/780117264455958558)
 
-Paradise Bot List | PBL [Vote](https://paradisebots.net/bots/780117264455958558)
+Paradise Bot List PBL | [Vote](https://paradisebots.net/bots/780117264455958558)
 
-Botrix [Vote](https://botrix.cc/bots/780117264455958558/)
+Botrix | [Vote](https://botrix.cc/bots/780117264455958558/)
 
-Astro Bot list [Vote](https://botlists.com/bot/780117264455958558)
+Astro Bot list | [Vote](https://botlists.com/bot/780117264455958558)
 
 
 ### Invite Bot
