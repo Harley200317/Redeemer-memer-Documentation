@@ -33,8 +33,11 @@ Sends a henti meme from reddit
 ### 📢 Privacy Policy 📢
 
 Redeemer Memer stores you discord name and tag whenever you use a command this is then stored into the database which allow the bot developer to easily see if a issue has gone wrong what command cause it and when it was caused. You can easily request this data to be removed from the database at any time by giving the Bot Owner a dm or email with the title **Please clear me from database** if you have email the bot owner please also supply you Discord name. The database will be cleared every 30 days or when a update is done to the bot, by inviting the bot to your server you are happy with this.
+
 Discord TOS Legal: [Join](https://discord.com/developers/docs/legal)
+
 Discord TOS Privacy: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
+
 TOS Stands for Terms of Service
 
 ### Support or Contact
