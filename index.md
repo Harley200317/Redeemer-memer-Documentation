@@ -49,4 +49,13 @@ Email me at: sgttdevelopment@gmail.com
 Join the Redeemer Memer Support Server: https://discord.com/invite/CKphbrr8B8
 
 
-                                                                          Bot is: | Online
+<div align="center">
+	<p>
+		<a href="https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode">
+			<img src="https://vsmarketplacebadge.apphb.com/version/icrawl.discord-vscode.svg" alt="VS Code Marketplace">
+		</a>
+		<a href="https://discord.gg/CKphbrr8B8">
+			<img src="https://canary.discordapp.com/api/guilds/424963290989461514/embed.png" alt="Discord server">
+		</a>
+	</p>
+</div>
