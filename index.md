@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to Redeemer Memer Documentation
 
-You can use the [editor on GitHub](https://github.com/sgtharley5050/Redeemer-memer-Doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The repo for Redeemer Meemer is here [Github](https://github.com/sgtharley5050/Redeemer-memer).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can vote for Redeemer Meemer on the following Bot Websites:
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Invite Bot
+Want this bot in your own server you can invite it here: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# What Redeemer Meemer can do
 
-- Bulleted
-- List
+# Meme Commands (These commands can only be used in channels marked NSFW)
+- Meme
+Send a SFW meme from reddit
+- NSFW-meme
+Sends a NSFW meme from reddit
+- Anime
+Sends a anime meme from reddit
+- Henti
+Sends a henti meme from reddit
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sgtharley5050/Redeemer-memer-Doc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can contact me on Discord at: sgtharley5050#2003
+Email me at: sgttdevelopment@gmail.com
+Join the Redeemer Memer Support Server: https://discord.com/invite/CKphbrr8B8
