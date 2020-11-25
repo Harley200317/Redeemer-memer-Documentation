@@ -11,7 +11,7 @@ Syntax highlighted code block
 
 # What Redeemer Meemer can do
 
-# Meme Commands (These commands can only be used in channels marked NSFW)
+#Meme Commands (These commands can only be used in channels marked NSFW)
 - Meme
 Send a SFW meme from reddit
 - NSFW-meme
@@ -26,5 +26,7 @@ Sends a henti meme from reddit
 ### Support or Contact
 
 You can contact me on Discord at: sgtharley5050#2003
+
 Email me at: sgttdevelopment@gmail.com
+
 Join the Redeemer Memer Support Server: https://discord.com/invite/CKphbrr8B8
