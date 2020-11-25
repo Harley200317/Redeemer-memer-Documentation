@@ -51,8 +51,6 @@ Join the Redeemer Memer Support Server: https://discord.com/invite/CKphbrr8B8
 
 <div align="center">
 	<p>
-		<a href="https://discord.gg/CKphbrr8B8">
-			<img src="https://canary.discordapp.com/api/guilds/780118881632256041/embed.png" alt="Discord server">
-		</a>
+		<iframe src="https://discord.com/widget?id=780118881632256041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 	</p>
 </div>
