@@ -7,7 +7,6 @@ You can vote for Redeemer Meemer on the following Bot Websites:
 ### Invite Bot
 Want this bot in your own server you can invite it here: [Invite](https://discord.com/oauth2/authorize?client_id=780117264455958558&scope=bot&permissions=523329)
 
-```markdown
 Syntax highlighted code block
 
 # What Redeemer Meemer can do
