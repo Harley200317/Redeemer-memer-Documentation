@@ -49,4 +49,9 @@ Email me at: sgttdevelopment@gmail.com
 Join the Redeemer Memer Support Server: https://discord.com/invite/CKphbrr8B8
 
 
-https://discord.com/widget?id=780118881632256041&theme=dark
+<div align="center">
+	<p>
+		<iframe src="https://discord.com/widget?id=780118881632256041&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+	</p>
+</div>
+
