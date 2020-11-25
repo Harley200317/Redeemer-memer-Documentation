@@ -47,4 +47,6 @@ You can contact me on Discord at: sgtharley5050#2003
 Email me at: sgttdevelopment@gmail.com
 
 Join the Redeemer Memer Support Server: https://discord.com/invite/CKphbrr8B8
+
+
                                                                           Bot is: | Online
