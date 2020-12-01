@@ -10,6 +10,8 @@ Paradise Bot List PBL | [Vote](https://paradisebots.net/bots/780117264455958558)
 
 Botrix | [Vote](https://botrix.cc/bots/780117264455958558/)
 
+Bots Database | [Vote](https://botsdatabase.com/bot/780117264455958558)
+
 
 
 ### Invite Bot
